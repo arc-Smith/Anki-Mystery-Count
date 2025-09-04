@@ -28,4 +28,3 @@ This add-on hooks into Anki's user interface functions. Instead of retrieving an
 I have several ideas for improving and expanding this add-on:
 
 * **Customizable Symbol:** Allow users to choose their own character, string, or even emojis to display instead of a question mark.
-* **Conditional Display:** Implement an option to reveal the number of cards only when the count is below a certain threshold (e.g., the last 10 cards), to provide an end-of-session cue.
