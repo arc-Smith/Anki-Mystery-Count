@@ -27,4 +27,4 @@ This add-on hooks into Anki's user interface functions. Instead of retrieving an
 
 I have several ideas for improving and expanding this add-on:
 
-* **Customizable Symbol:** Allow users to choose their own character, string, or even emojis to display instead of a question mark.
+* **Customizable Symbol:** Allow users to easily choose their own character, string, or even emojis to display instead of a question mark.
