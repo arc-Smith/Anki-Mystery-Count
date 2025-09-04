@@ -1,1 +1,1 @@
-Anki add-on to hide the number of cards due
+Anki add-on I made to hide the number of cards due
