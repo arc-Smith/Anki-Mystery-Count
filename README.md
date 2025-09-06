@@ -1,6 +1,6 @@
 # Anki-Mystery-Count
 
-This add-on is designed to improve review sessions by removing the psychological pressure of the card counter. It replaces the remaining card count with a question mark (`?`), encouraging users to prioritize active recall and engagement with the material over the anticipation of finishing the deck.
+This add-on is designed to improve review sessions by removing the psychological pressure of the card counter. It replaces the remaining card count with a question mark (`?`), encouraging users to prioritize active recall and engagement with the material over the anticipation of finishing the deck..
 
 ---
 
