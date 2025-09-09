@@ -1,7 +1,7 @@
 # Anki-Mystery-Count
 
 <p align="center">
-  <img width="496" height="115" alt="Screenshot 2025-09-09 at 12 34 54 PM" src="https://github.com/user-attachments/assets/9e937664-5dcc-430a-bca9-2217abadaaa8" style="border: 3px solid red; border-radius: 8px;" />
+  <img width="496" height="115" alt="Screenshot 2025-09-09 at 12 34 54 PM" src="https://github.com/user-attachments/assets/9e937664-5dcc-430a-bca9-2217abadaaa8"/>
 </p>
 
 This add-on is designed to improve review sessions by removing the psychological pressure of the card counter. It replaces the remaining card count with a question mark (`?`), encouraging users to prioritize active recall and engagement with the material over the anticipation of finishing the deck.
