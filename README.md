@@ -1,4 +1,4 @@
-# Anki-Mystery-Count
+# Anki Mystery-Count Add-On
 
 <p align="center">
   <img width="496" height="115" alt="Screenshot 2025-09-09 at 12 34 54 PM" src="https://github.com/user-attachments/assets/9e937664-5dcc-430a-bca9-2217abadaaa8" />
